@@ -1,6 +1,6 @@
 # PHSX815_Week6
 
-# These repository contains:
+# This repository contains:
 
 * Trap.py [Python]. That contrasts the trapezoidal rule with numerical integration
 * MC_integral.py [Python]
