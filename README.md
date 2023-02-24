@@ -13,7 +13,7 @@ numpy (pyhon)
 scipy.integrate (python)
 sympy (python)
 
-They Python files
+These Python files
 
 Trap.py 
 
